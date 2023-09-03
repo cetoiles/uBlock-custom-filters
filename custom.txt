@@ -1,0 +1,31 @@
+! Title: Cétoiles's Custom Filters
+! Homepage: https://github.com/cetoiles/AdGuardFilters
+
+! 2023-08-15 sub.tsutsu.one
+sub.tsutsu.one##div[class="swal2-container swal2-center swal2-backdrop-show"]
+
+! 2023-08-16 pcoptimum.ca (PC Optimum privacy notice)
+pcoptimum.ca##div[class="lds__privacy-policy lds__privacy-policy__positionBottom"]
+
+! 2023-08-19 bilibili.com (Bilibili voting)
+bilibili.com##div[class="bili-guide-all bili-guide bili-show"]
+bilibili.com##div[class="bili-guide-all bili-guide bili-guide-followed bili-show"]
+bilibili.com##div[class="bili-score bili-show"]
+bilibili.com##div[class="bili-vote bili-show"]
+bilibili.com##div[class="bili-link bili-show"]
+
+! 2023-08-28 translate.google.* (Google Translate toolbar)
+translate.google.*/*/element.js
+
+! 2023-09-02 myanimelist.net (MyAnimeList signup notice)
+myanimelist.net##.ga-impression.bottom-bar
+
+! 2023-09-02 youtube.com (YouTube end cards)
+youtube.com##.ytp-ce-element
+
+! 2023-09-03 https://www.dpscomputing.com
+www.dpscomputing.com##div:matches-css(background-color: rgba(0, 0, 0, 0.7)):remove()
+
+! 2023-09-03 https://blog.gitnux.com
+blog.gitnux.com##.elementor-popup-modal.dialog-type-lightbox.dialog-type-buttons.dialog-lightbox-widget.dialog-widget
+blog.gitnux.com##html,body:style(overflow: visible !important;)
