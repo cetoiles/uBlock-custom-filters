@@ -34,3 +34,6 @@ blog.gitnux.com##html,body:style(overflow: visible !important;)
 level23hacktools.com##.__b-popup1__.b-modal
 level23hacktools.com###espopup_2
 level23hacktools.com##html,body:style(overflow: visible !important;)
+
+! 2023-09-11 https://foldersync.io
+foldersync.io##.CookieConsent
