@@ -28,12 +28,11 @@ www.dpscomputing.com##div:matches-css(background-color: rgba(0, 0, 0, 0.7))
 
 ! 2023-09-03 https://blog.gitnux.com
 blog.gitnux.com##.elementor-popup-modal.dialog-type-lightbox.dialog-type-buttons.dialog-lightbox-widget.dialog-widget
-blog.gitnux.com##html,body:style(overflow: visible !important;)
-
-! 2023-09-10 https://level23hacktools.com
-level23hacktools.com##.__b-popup1__.b-modal
-level23hacktools.com###espopup_2
-level23hacktools.com##html,body:style(overflow: visible !important;)
+blog.gitnux.com##body:style(overflow: visible !important;)
 
 ! 2023-09-11 https://foldersync.io
 foldersync.io##.CookieConsent
+
+! 2023-09-24 https://sj.qq.com
+sj.qq.com##.SplashAds_splashAds__Q8cA8
+sj.qq.com##.BrandBanner_showGameDetailBrand__ekwpw.BrandBanner_brandBanner__Q8KGy.jsx-3103515446
