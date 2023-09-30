@@ -36,3 +36,10 @@ foldersync.io##.CookieConsent
 ! 2023-09-24 https://sj.qq.com
 sj.qq.com##.SplashAds_splashAds__Q8cA8
 sj.qq.com##.BrandBanner_showGameDetailBrand__ekwpw.BrandBanner_brandBanner__Q8KGy.jsx-3103515446
+
+! 2023-09-29 https://secure.eqbank.ca (Fix "Remember this device")
+@@||equitablebank.ca^
+
+! 2023-09-30 https://zh.moegirl.org.cn
+zh.moegirl.org.cn##.n-modal-container
+zh.moegirl.org.cn##html:style(overflow: visible !important;)
