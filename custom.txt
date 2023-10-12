@@ -1,12 +1,6 @@
 ! Title: Cétoiles's Custom Filters
 ! Homepage: https://github.com/cetoiles/AdGuardFilters
 
-! 2023-08-15 https://sub.tsutsu.one
-sub.tsutsu.one##div[class="swal2-container swal2-center swal2-backdrop-show"]
-
-! 2023-08-16 https://pcoptimum.ca (PC Optimum privacy notice)
-pcoptimum.ca##div[class="lds__privacy-policy lds__privacy-policy__positionBottom"]
-
 ! 2023-08-28 https://translate.google.* (Google Translate toolbar)
 translate.google.*/*/element.js
 
@@ -36,3 +30,6 @@ sj.qq.com##.BrandBanner_showGameDetailBrand__ekwpw.BrandBanner_brandBanner__Q8KG
 ! 2023-09-30 https://zh.moegirl.org.cn
 zh.moegirl.org.cn##.n-modal-container
 zh.moegirl.org.cn##html:style(overflow: visible !important;)
+
+! 2023-10-12 https://www.pcoptimum.ca (PC Optimum privacy notice)
+www.pcoptimum.ca##.lds__privacy-policy__innerWrapper
