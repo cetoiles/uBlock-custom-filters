@@ -7,13 +7,6 @@ sub.tsutsu.one##div[class="swal2-container swal2-center swal2-backdrop-show"]
 ! 2023-08-16 https://pcoptimum.ca (PC Optimum privacy notice)
 pcoptimum.ca##div[class="lds__privacy-policy lds__privacy-policy__positionBottom"]
 
-! 2023-08-19 https://bilibili.com (Bilibili voting)
-bilibili.com##div[class="bili-guide-all bili-guide bili-show"]
-bilibili.com##div[class="bili-guide-all bili-guide bili-guide-followed bili-show"]
-bilibili.com##div[class="bili-score bili-show"]
-bilibili.com##div[class="bili-vote bili-show"]
-bilibili.com##div[class="bili-link bili-show"]
-
 ! 2023-08-28 https://translate.google.* (Google Translate toolbar)
 translate.google.*/*/element.js
 
