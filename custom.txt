@@ -37,7 +37,6 @@ www.youtube.com##.ytp-ce-element
 ! "Ad blockers are not allowed on YouTube" notice
 www.youtube.com##tp-yt-paper-dialog.ytd-popup-container.style-scope:remove()
 www.youtube.com##.opened:remove()
-www.youtube.com##body:style(overflow: visible !important;)
 
 ! 2023-10-13 https://www.bilibili.com
 ! like, coin, favorite
