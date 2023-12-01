@@ -42,3 +42,5 @@ www.bilibili.com##.bili-show.bili-guide
 www.bilibili.com##.bili-show.bili-vote
 ! link to another video
 www.bilibili.com##.bili-show.bili-link
+! rate
+www.bilibili.com##.bili-show.bili-score
