@@ -44,3 +44,10 @@ www.bilibili.com##.bili-show.bili-score
 
 ! 2023-12-10 https://petri.com
 petri.com###enlivy-kit-cookie-policy-container
+
+! 2024-02-06 https://www.tipranks.com
+www.tipranks.com##.bgAlpha50.anchorall.positionabsolute.displayflex.bggray-0
+www.tipranks.com##.ipad_displaynone.z12.anchorall.positionfixed.flexccc
+
+! 2024-06-06 https://game8.co
+game8.co##.footer-overlay
