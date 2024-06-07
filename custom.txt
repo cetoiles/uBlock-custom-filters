@@ -51,3 +51,4 @@ www.tipranks.com##.ipad_displaynone.z12.anchorall.positionfixed.flexccc
 
 ! 2024-06-06 https://game8.co
 game8.co##.footer-overlay
+game8.co##.js-side-ads-movie-container
