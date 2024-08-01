@@ -41,6 +41,8 @@ www.bilibili.com##.bili-show.bili-vote
 www.bilibili.com##.bili-show.bili-link
 ! rate
 www.bilibili.com##.bili-show.bili-score
+! heartbeat
+www.bilibili.com##.bili-danmaku-x-show.bili-danmaku-x-cmtime
 
 ! 2023-12-10 https://petri.com
 petri.com###enlivy-kit-cookie-policy-container
