@@ -56,3 +56,6 @@ www.tipranks.com##.ipad_displaynone.z12.anchorall.positionfixed.flexccc
 ! 2024-06-06 https://game8.co
 game8.co##.footer-overlay
 game8.co##.js-side-ads-movie-container
+
+! 2024-08-02 https://wpmarmite.com
+wpmarmite.com##.elementor-section-height-default.elementor-section-boxed.elementor-section-content-middle.elementor-element-3dfb3368.elementor-element.elementor-top-section.elementor-section
