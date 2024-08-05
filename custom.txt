@@ -51,6 +51,8 @@ www.bilibili.com##.bili-danmaku-x-show.bili-danmaku-x-guide.bili-danmaku-x-guide
 www.bilibili.com##.bili-danmaku-x-show.bili-danmaku-x-link
 ! rate
 www.bilibili.com##.bili-danmaku-x-show.bili-danmaku-x-score
+! vote
+www.bilibili.com##.bili-danmaku-x-show.bili-danmaku-x-vote
 
 ! 2023-12-10 https://petri.com
 petri.com###enlivy-kit-cookie-policy-container
