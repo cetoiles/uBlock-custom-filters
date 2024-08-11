@@ -35,14 +35,16 @@ www.youtube.com##.ytp-ce-element
 ! 2023-10-13 https://www.bilibili.com
 ! like, coin, favorite
 www.bilibili.com##.bili-show.bili-guide
-! vote and send comment
-www.bilibili.com##.bili-show.bili-vote
 ! link to another video
 www.bilibili.com##.bili-show.bili-link
 ! rate
 www.bilibili.com##.bili-show.bili-score
+! vote and send comment
+www.bilibili.com##.bili-show.bili-vote
 
 ! 2024-08-01 https://www.bilibili.com
+! follow
+www.bilibili.com##.bili-danmaku-x-guide-follow
 ! heartbeat
 www.bilibili.com##.bili-danmaku-x-show.bili-danmaku-x-cmtime
 ! like, coin, favorite, follow
