@@ -47,6 +47,8 @@ www.bilibili.com##.bili-show.bili-vote
 www.bilibili.com##.bili-danmaku-x-guide-follow
 ! heartbeat
 www.bilibili.com##.bili-danmaku-x-show.bili-danmaku-x-cmtime
+! like, coin, favorite
+www.bilibili.com##.bili-danmaku-x-guide-three
 ! like, coin, favorite, follow
 www.bilibili.com##.bili-danmaku-x-show.bili-danmaku-x-guide.bili-danmaku-x-guide-all
 ! link to another video
