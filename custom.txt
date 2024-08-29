@@ -55,6 +55,8 @@ www.bilibili.com##.bili-danmaku-x-show.bili-danmaku-x-guide.bili-danmaku-x-guide
 www.bilibili.com##.bili-danmaku-x-show.bili-danmaku-x-link
 ! rate
 www.bilibili.com##.bili-danmaku-x-show.bili-danmaku-x-score
+! upcoming notification
+www.bilibili.com##.bili-danmaku-x-show.bili-danmaku-x-reserve
 ! vote
 www.bilibili.com##.bili-danmaku-x-show.bili-danmaku-x-vote
 
