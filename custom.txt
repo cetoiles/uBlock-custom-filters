@@ -73,3 +73,10 @@ game8.co##.js-side-ads-movie-container
 
 ! 2024-08-02 https://wpmarmite.com
 wpmarmite.com##.elementor-section-height-default.elementor-section-boxed.elementor-section-content-middle.elementor-element-3dfb3368.elementor-element.elementor-top-section.elementor-section
+
+! 2024-08-30 https://blog.csdn.net
+blog.csdn.net##.passport-login-container
+blog.csdn.net##.false.passport-login-tip-container
+
+! 2024-09-05 https://www.youtube.com
+www.youtube.com##tp-yt-paper-dialog.ytd-popup-container.style-scope
