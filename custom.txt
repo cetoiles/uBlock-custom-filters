@@ -43,6 +43,8 @@ www.bilibili.com##.bili-show.bili-score
 www.bilibili.com##.bili-show.bili-vote
 
 ! 2024-08-01 https://www.bilibili.com
+! feedback on image quality
+www.bilibili.com##.bpx-player-qoeFeedback
 ! follow
 www.bilibili.com##.bili-danmaku-x-guide-follow
 ! heartbeat
