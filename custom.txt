@@ -80,3 +80,9 @@ blog.csdn.net##.false.passport-login-tip-container
 
 ! 2024-09-05 https://www.youtube.com
 www.youtube.com##tp-yt-paper-dialog.ytd-popup-container.style-scope
+
+! 2024-09-11 https://zhuanlan.zhihu.com
+zhihu.com##body > div > div > div
+
+! 2024-09-11 https://www.zhihu.com
+zhihu.com##.css-1wq6v87
