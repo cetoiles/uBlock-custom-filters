@@ -80,9 +80,6 @@ wpmarmite.com##.elementor-section-height-default.elementor-section-boxed.element
 blog.csdn.net##.passport-login-container
 blog.csdn.net##.false.passport-login-tip-container
 
-! 2024-09-05 https://www.youtube.com
-www.youtube.com##tp-yt-paper-dialog.ytd-popup-container.style-scope
-
 ! 2024-09-11 https://zhuanlan.zhihu.com
 zhihu.com##body > div > div > div
 
