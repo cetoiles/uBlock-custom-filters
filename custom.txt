@@ -61,6 +61,8 @@ www.bilibili.com##.bili-danmaku-x-show.bili-danmaku-x-score
 www.bilibili.com##.bili-danmaku-x-show.bili-danmaku-x-reserve
 ! vote
 www.bilibili.com##.bili-danmaku-x-show.bili-danmaku-x-vote
+! game download
+www.bilibili.com##.bpx-player-show.bpx-player-skipcard
 
 ! 2023-12-10 https://petri.com
 petri.com###enlivy-kit-cookie-policy-container
@@ -85,3 +87,6 @@ zhihu.com##body > div > div > div
 
 ! 2024-09-11 https://www.zhihu.com
 zhihu.com##.css-1wq6v87
+
+! 2024-10-16 https://bluecatnetworks.com
+bluecatnetworks.com##.v-overlay-inherit.v-overlay-color-dark.pointer-events-none.z-high.h-100.w-100.position-fixed.v-overlay
