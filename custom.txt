@@ -90,3 +90,6 @@ zhihu.com##.css-1wq6v87
 
 ! 2024-10-16 https://bluecatnetworks.com
 bluecatnetworks.com##.v-overlay-inherit.v-overlay-color-dark.pointer-events-none.z-high.h-100.w-100.position-fixed.v-overlay
+
+! 2024-11-22 https://fantia.jp
+fantia.jp##.img-blurred:style(filter: none !important; webkit-filter: none !important;)
