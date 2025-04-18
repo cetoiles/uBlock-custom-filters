@@ -93,3 +93,9 @@ bluecatnetworks.com##.v-overlay-inherit.v-overlay-color-dark.pointer-events-none
 
 ! 2024-11-22 https://fantia.jp
 fantia.jp##.img-blurred:style(filter: none !important; webkit-filter: none !important;)
+
+! 2025-04-17 https://filepv.com
+filepv.com##.show.fade.modal-lg.modal
+filepv.com##.show.fade.modal-backdrop
+filepv.com##center
+
