@@ -1,5 +1,5 @@
 ! Title: Cétoiles's Custom Filters
-! Homepage: https://github.com/cetoiles/AdGuardFilters
+! Homepage: https://github.com/cetoiles/uBlock-custom-filters
 
 ! 2023-08-28 https://translate.google.* (Google Translate toolbar)
 translate.google.*/*/element.js
