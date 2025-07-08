@@ -78,6 +78,9 @@ game8.co##.js-side-ads-movie-container
 ! 2024-08-02 https://wpmarmite.com
 wpmarmite.com##.elementor-section-height-default.elementor-section-boxed.elementor-section-content-middle.elementor-element-3dfb3368.elementor-element.elementor-top-section.elementor-section
 
+! 2024-08-11 https://genshin-impact-map.appsample.com
+appsample.com##.MapLayout_Rightbar
+
 ! 2024-08-30 https://blog.csdn.net
 blog.csdn.net##.passport-login-container
 blog.csdn.net##.false.passport-login-tip-container
@@ -99,3 +102,14 @@ filepv.com##.show.fade.modal-lg.modal
 filepv.com##.show.fade.modal-backdrop
 filepv.com##center
 
+! 2025-03-10 https://www.askingcanadians.com
+@@||survey.euro.confirmit.com^$subdocument,domain=www.askingcanadians.com
+
+! 2025-03-30 https://secure.pcfinancial.ca
+secure.pcfinancial.ca###ssite-banner
+
+! 2025-04-28 https://medium.easyread.co
+medium.easyread.co##.tt.ts.tr.m
+
+! 2025-07-07 https://apps7.ams-sga.cra-arc.gc.ca (Canada Revenue Agency chat widget and sound)
+||apps7.ams-sga.cra-arc.gc.ca/gol-ged/abbe/widget/chat-widget.js$script,domain=apps7.ams-sga.cra-arc.gc.ca
