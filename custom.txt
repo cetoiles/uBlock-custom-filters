@@ -116,3 +116,6 @@ medium.easyread.co##.tt.ts.tr.m
 
 ! 2025-09-06 https://www.wolai.com
 www.wolai.com##.CrhOF
+
+! 2025-09-17 https://www.amazon.ca (profile selection division from the top-right account menu; appears a few seconds after user expanding the account menu, causing misclicks)
+amazon.*###nav-al-profile
