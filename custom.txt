@@ -119,3 +119,9 @@ www.wolai.com##.CrhOF
 
 ! 2025-09-17 https://www.amazon.ca (profile selection division from the top-right account menu; appears a few seconds after user expanding the account menu, causing misclicks)
 amazon.*###nav-al-profile
+
+! 2025-09-19 https://admin.microsoft.com
+! Help & support
+admin.microsoft.com##.MAC-569
+! Give Feedback
+admin.microsoft.com##.feedbackButtonContainer-377._UnsolicitedGiveFeedbackButton_173
