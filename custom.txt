@@ -122,6 +122,6 @@ amazon.*###nav-al-profile
 
 ! 2025-09-19 https://admin.microsoft.com
 ! Help & support
-admin.microsoft.com##.MAC-569
+admin.microsoft.com###support-central-feedback-widget-container
 ! Give Feedback
-admin.microsoft.com##.feedbackButtonContainer-377._UnsolicitedGiveFeedbackButton_173
+admin.microsoft.com##.divParent-114
