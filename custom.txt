@@ -111,8 +111,8 @@ secure.pcfinancial.ca###ssite-banner
 ! 2025-04-28 https://medium.easyread.co
 medium.easyread.co##.tt.ts.tr.m
 
-! 2025-07-07 https://apps7.ams-sga.cra-arc.gc.ca (Canada Revenue Agency chat widget and sound)
-||apps7.ams-sga.cra-arc.gc.ca/gol-ged/abbe/widget/chat-widget.js$script,domain=apps7.ams-sga.cra-arc.gc.ca
+! 2025-07-07 2026-03-07 https://ams-sga.cra-arc.gc.ca (Canada Revenue Agency chat widget and sound)
+||ams-sga.cra-arc.gc.ca/gol-ged/abbe/widget/chat-widget.js$script
 
 ! 2025-09-06 https://www.wolai.com
 www.wolai.com##.CrhOF
