@@ -120,8 +120,16 @@ www.wolai.com##.CrhOF
 ! 2025-09-17 https://www.amazon.ca (profile selection division from the top-right account menu; appears a few seconds after user expanding the account menu, causing misclicks)
 amazon.*###nav-al-profile
 
-! 2026-02-22 https://admin.cloud.microsoft
+! 2025-09-19 2026-02-22 https://admin.cloud.microsoft
 ! Help & support
 admin.cloud.microsoft###support-central-feedback-widget-container
 ! Give Feedback
 admin.cloud.microsoft##.divParent-114
+
+! 2026-09-30 https://www.youtube.com
+! YouTube Subscriptions
+www.youtube.com##ytd-rich-section-renderer.ytd-rich-grid-renderer.style-scope:nth-of-type(1)
+
+! 2026-09-30 https://www.youtube.com
+! YouTube Playables
+www.youtube.com##ytd-rich-section-renderer.ytd-rich-grid-renderer.style-scope:nth-of-type(2)
