@@ -133,3 +133,7 @@ www.youtube.com##ytd-rich-section-renderer.ytd-rich-grid-renderer.style-scope:nt
 ! 2026-09-30 https://www.youtube.com
 ! YouTube Playables
 www.youtube.com##ytd-rich-section-renderer.ytd-rich-grid-renderer.style-scope:nth-of-type(2)
+
+! 2026-10-05 https://m.youtube.com
+! YouTube Playables
+m.youtube.com##ytm-rich-section-renderer.rich-section-single-column:nth-of-type(1)
